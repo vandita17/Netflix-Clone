@@ -1,0 +1,126 @@
+
+  .logo{
+    height: px;
+    width: 125px;
+
+  }
+.navbar{
+  background-color: #FEFBF6;
+}
+.nav-item{
+  font-size: 30px;
+}
+.sign{
+  margin-right: 2rem;
+  color: #000000;
+}
+.line{
+  height: 15px;
+}
+.laptop{
+  width: 400px;
+  
+  margin-top: 6rem;
+}
+.text{
+  color: #333333;
+  font-size: 2rem;
+  
+ 
+}
+.texts{
+  color: #333333;
+  font-size: 2rem;
+ 
+}
+.none{
+  color: #000000;
+  font-size: 1rem;
+  margin-left: 33.5rem;
+
+}
+.yes{
+  color: #000000;
+  font-size: 1rem;
+  margin-left: 32rem;
+
+}
+.mini{
+  width: 350px;
+  
+}
+.btn{
+  
+  margin-bottom: 3rem;
+  font-size: 24px;
+   font-weight: 400;
+   min-height: 64px;
+   margin-top: 2rem;
+   border-radius: 4px;
+   min-height: 64px;
+   line-height: 1;
+   padding: 20.5px, 2em;
+   background-color: #e50914;
+   position: relative;
+   cursor: pointer;
+   text-align: center;
+   width: 30%;
+   }
+.footer {
+  transition-duration: 250ms;
+  background-color: #f3f3f3;
+  opacity: 1;
+  margin-top: 0;
+  font-size: 1em;
+  min-width: 190px;
+  padding-bottom: 20px;
+  position: relative;
+  width: 100%;
+  font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+
+}
+.foot{
+  background-color: #f3f3f3;
+  color: #737373;
+  width: 100%;
+  font-size: 1em;
+  margin-top: 10rem;
+}
+.colm{
+  margin-left: 2rem;
+}
+.drop{
+background-color: #fff;
+padding-left: 42px;
+appearance: none;
+border: 1px solid #a6a6a6;
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+border-top-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: solid;
+border-top-color: rgb(166, 166, 166);
+border-right-color: rgb(166, 166, 166);
+border-bottom-color: rgb(166, 166, 166);
+border-left-color: rgb(166, 166, 166);
+border-radius: 2px;
+border-top-left-radius: 2px;
+border-top-right-radius: 2px;
+border-bottom-right-radius: 2px;
+border-bottom-left-radius: 2px;
+font-size: 16px;
+height: 48px;
+width: 100%;
+
+
+
+}
+#languagesSelect{
+margin-bottom: 1.5rem;
+
+}
+
+
